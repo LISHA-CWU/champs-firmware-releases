@@ -1,4 +1,31 @@
 {
-  "schema": 1,
-  "boards": {}
+  "boards": {
+    "hrpc_v2": {
+      "latest": "0.2.0",
+      "versions": {
+        "0.2.0": {
+          "image_hash": "4984253c67ef6508706ceda544b2f0c154efff1adce5851f903914a7dad5827b",
+          "notes": "Published from c10df728446111fd80c5445134bc329623b992f5",
+          "released_at": "2026-08-24T09:24:36Z",
+          "tests_url": "https://github.com/LISHA-CWU/champs-firmware-releases/releases/download/v0.2.0/tests_v0.2.0.json",
+          "zip_sha256": "658ad025deda54559260d93b0e82c9a588d243953ebcc3e76048dfadf0b7c659",
+          "zip_url": "https://github.com/LISHA-CWU/champs-firmware-releases/releases/download/v0.2.0/dfu_hrpc_v2_v0.2.0.zip"
+        }
+      }
+    },
+    "hrpc_v3": {
+      "latest": "0.2.0",
+      "versions": {
+        "0.2.0": {
+          "image_hash": "9ddf92b3ffefc594c6567c8b569f63e02c610e7b66b43081931cc76af009b463",
+          "notes": "Published from c10df728446111fd80c5445134bc329623b992f5",
+          "released_at": "2026-08-24T09:24:36Z",
+          "tests_url": "https://github.com/LISHA-CWU/champs-firmware-releases/releases/download/v0.2.0/tests_v0.2.0.json",
+          "zip_sha256": "4489fde3942abbbbdd9e68f74f89f432e8dd600f385ee05d25878714a645a0e8",
+          "zip_url": "https://github.com/LISHA-CWU/champs-firmware-releases/releases/download/v0.2.0/dfu_hrpc_v3_v0.2.0.zip"
+        }
+      }
+    }
+  },
+  "schema": 1
 }
